@@ -17,6 +17,10 @@ export default {
 </script>
 
 <style>
+body {
+background-image: url("./lined__paper.png")
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
